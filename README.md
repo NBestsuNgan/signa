@@ -62,7 +62,10 @@ docker run -p 8888:8888 --name jupyter-env pytorch-jupyter
 ```
 
 
-
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
 <!--
 * **Chapter 1: Code Your First Neural Network!!!**
 
