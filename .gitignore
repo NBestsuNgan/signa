@@ -3,3 +3,4 @@
 *epoch*
 runs/
 lightning_logs/
+.venv
